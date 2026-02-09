@@ -30,8 +30,4 @@
   .section-title {
     @apply text-2xl font-semibold text-white;
   }
-
-  .glass {
-    @apply rounded-3xl border border-white/10 bg-white/5 backdrop-blur;
-  }
 }
